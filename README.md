@@ -1,4 +1,4 @@
-# BhabhaLLM: A Homi J. Bhabha Persona Model
+# A Homi J. Bhabha Persona Model
 
 A hobby project designed to fine-tune the **Mistral 7B v0.3** model to emulate the personality, eloquence, and scientific visionary spirit of **Dr. Homi J. Bhabha**.
 
